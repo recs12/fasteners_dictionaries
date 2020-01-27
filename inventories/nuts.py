@@ -1,5 +1,4 @@
-# cad description : jde numbet
-inventory = {
+inventory_nuts = {
     "VTCY_0.138-32X0.625_SS.PAR": 185671,
     "VTCY_0.250-20X1.750_SS.PAR": 185680,
     "VTFR_0.625-11X3.000.PAR": 24107929,
